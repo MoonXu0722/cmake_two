@@ -1,0 +1,6 @@
+C:/Users/xpy/source/repos/subdir/out/build/x64-Debug (默认值)/CMakeFiles/demo.dir
+C:/Users/xpy/source/repos/subdir/out/build/x64-Debug (默认值)/CMakeFiles/edit_cache.dir
+C:/Users/xpy/source/repos/subdir/out/build/x64-Debug (默认值)/CMakeFiles/rebuild_cache.dir
+C:/Users/xpy/source/repos/subdir/out/build/x64-Debug (默认值)/math/CMakeFiles/add.dir
+C:/Users/xpy/source/repos/subdir/out/build/x64-Debug (默认值)/math/CMakeFiles/edit_cache.dir
+C:/Users/xpy/source/repos/subdir/out/build/x64-Debug (默认值)/math/CMakeFiles/rebuild_cache.dir
